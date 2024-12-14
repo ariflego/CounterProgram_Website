@@ -1,2 +1,2 @@
 # CounterProgram_Website
- a website that has a functional counter in it. made in js for fun.
+ A website that has a functional counter in it. Made in JavaScript for fun.
